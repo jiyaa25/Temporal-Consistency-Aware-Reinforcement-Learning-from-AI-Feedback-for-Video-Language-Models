@@ -1,0 +1,410 @@
+[
+  {
+    "claim_id": "baseline_1",
+    "source_caption": "baseline",
+    "claim": "The video begins with a black screen, indicating the start of the sequence.",
+    "flags": [
+      "POSSIBLE_COMPOUND_CLAIM"
+    ]
+  },
+  {
+    "claim_id": "baseline_2",
+    "source_caption": "baseline",
+    "claim": "The first frame shows a group of people in a control room, likely a mission control center, where they are focused on their work.",
+    "flags": [
+      "NO_OBVIOUS_ISSUE"
+    ]
+  },
+  {
+    "claim_id": "baseline_3",
+    "source_caption": "baseline",
+    "claim": "The second frame transitions to an exterior view of the International Space Station (ISS) in orbit, showcasing its structure and the surrounding Earth's atmosphere.",
+    "flags": [
+      "POSSIBLE_COMPOUND_CLAIM"
+    ]
+  },
+  {
+    "claim_id": "baseline_4",
+    "source_caption": "baseline",
+    "claim": "The third frame returns to the control room, where two individuals are present, one holding a microphone and the other standing beside him.",
+    "flags": [
+      "POSSIBLE_COMPOUND_CLAIM"
+    ]
+  },
+  {
+    "claim_id": "baseline_5",
+    "source_caption": "baseline",
+    "claim": "They appear to be engaged in a discussion or presentation.",
+    "flags": [
+      "NO_OBVIOUS_ISSUE"
+    ]
+  },
+  {
+    "claim_id": "baseline_6",
+    "source_caption": "baseline",
+    "claim": "The fourth frame shifts back to the ISS, where the same two individuals are seen inside the space station, continuing their conversation.",
+    "flags": [
+      "NO_OBVIOUS_ISSUE"
+    ]
+  },
+  {
+    "claim_id": "baseline_7",
+    "source_caption": "baseline",
+    "claim": "The fifth frame captures a close-up of one of the individuals speaking, emphasizing his facial expressions and gestures.",
+    "flags": [
+      "POSSIBLE_COMPOUND_CLAIM"
+    ]
+  },
+  {
+    "claim_id": "baseline_8",
+    "source_caption": "baseline",
+    "claim": "The sixth frame shows a person in a blue shirt performing some task, possibly related to the space station's operations.",
+    "flags": [
+      "NO_OBVIOUS_ISSUE"
+    ]
+  },
+  {
+    "claim_id": "baseline_9",
+    "source_caption": "baseline",
+    "claim": "The seventh frame returns to the control room, where the two individuals continue their interaction.",
+    "flags": [
+      "NO_OBVIOUS_ISSUE"
+    ]
+  },
+  {
+    "claim_id": "baseline_10",
+    "source_caption": "baseline",
+    "claim": "The eighth frame again shows the ISS, with the two individuals still engaged in their discussion.",
+    "flags": [
+      "POSSIBLE_COMPOUND_CLAIM"
+    ]
+  },
+  {
+    "claim_id": "baseline_11",
+    "source_caption": "baseline",
+    "claim": "The ninth frame provides another close-up of the individual speaking, highlighting his engagement.",
+    "flags": [
+      "NO_OBVIOUS_ISSUE"
+    ]
+  },
+  {
+    "claim_id": "baseline_12",
+    "source_caption": "baseline",
+    "claim": "The tenth frame returns to the ISS, where the two individuals are once more seen in conversation.",
+    "flags": [
+      "NO_OBVIOUS_ISSUE"
+    ]
+  },
+  {
+    "claim_id": "baseline_13",
+    "source_caption": "baseline",
+    "claim": "The eleventh frame shows the ISS again, with the two individuals continuing their dialogue.",
+    "flags": [
+      "POSSIBLE_COMPOUND_CLAIM"
+    ]
+  },
+  {
+    "claim_id": "baseline_14",
+    "source_caption": "baseline",
+    "claim": "The twelfth frame ends with a return to the control room, where the two individuals are still engaged in their discussion.",
+    "flags": [
+      "POSSIBLE_COMPOUND_CLAIM"
+    ]
+  },
+  {
+    "claim_id": "baseline_15",
+    "source_caption": "baseline",
+    "claim": "The thirteenth frame shows the ISS once more, with the two individuals continuing their conversation.",
+    "flags": [
+      "POSSIBLE_COMPOUND_CLAIM"
+    ]
+  },
+  {
+    "claim_id": "baseline_16",
+    "source_caption": "baseline",
+    "claim": "The fourteenth frame returns to the control room, where the two individuals are still engaged in their discussion.",
+    "flags": [
+      "NO_OBVIOUS_ISSUE"
+    ]
+  },
+  {
+    "claim_id": "baseline_17",
+    "source_caption": "baseline",
+    "claim": "The fifteenth frame shows the ISS again, with the two individuals continuing their dialogue.",
+    "flags": [
+      "POSSIBLE_COMPOUND_CLAIM"
+    ]
+  },
+  {
+    "claim_id": "baseline_18",
+    "source_caption": "baseline",
+    "claim": "The sixteenth frame ends with a return to the control room, where the two individuals are still engaged in their discussion.",
+    "flags": [
+      "POSSIBLE_COMPOUND_CLAIM"
+    ]
+  },
+  {
+    "claim_id": "baseline_19",
+    "source_caption": "baseline",
+    "claim": "The seventeenth frame shows the ISS once more, with the two individuals continuing their conversation.",
+    "flags": [
+      "POSSIBLE_COMPOUND_CLAIM"
+    ]
+  },
+  {
+    "claim_id": "baseline_20",
+    "source_caption": "baseline",
+    "claim": "The eighteenth frame returns to the control room, where the two",
+    "flags": [
+      "NO_OBVIOUS_ISSUE"
+    ]
+  },
+  {
+    "claim_id": "candidate_A_21",
+    "source_caption": "candidate_A",
+    "claim": "The video begins with a black screen for a brief moment before transitioning to Frame 1, which shows a group of people in a control room setting.",
+    "flags": [
+      "POSSIBLE_COMPOUND_CLAIM"
+    ]
+  },
+  {
+    "claim_id": "candidate_A_22",
+    "source_caption": "candidate_A",
+    "claim": "The individuals appear to be engaged in some form of communication or coordination, possibly related to space exploration given their attire and the background.",
+    "flags": [
+      "POSSIBLE_COMPOUND_CLAIM"
+    ]
+  },
+  {
+    "claim_id": "candidate_A_23",
+    "source_caption": "candidate_A",
+    "claim": "Frame 2 shifts focus slightly, maintaining the same control room setting but introducing an additional element\u2014a flag with red, white, and blue colors\u2014likely representing a national flag or a symbol associated with the mission.",
+    "flags": [
+      "POSSIBLE_COMPOUND_CLAIM"
+    ]
+  },
+  {
+    "claim_id": "candidate_A_24",
+    "source_caption": "candidate_A",
+    "claim": "In Frame 3, there is a significant shift as the scene transitions to what appears to be a view of Earth from space.",
+    "flags": [
+      "NO_OBVIOUS_ISSUE"
+    ]
+  },
+  {
+    "claim_id": "candidate_A_25",
+    "source_caption": "candidate_A",
+    "claim": "The camera focuses on a satellite or space station labeled \"Expedition 30,\" highlighting its orbiting position against the backdrop of clouds.",
+    "flags": [
+      "NO_OBVIOUS_ISSUE"
+    ]
+  },
+  {
+    "claim_id": "candidate_A_26",
+    "source_caption": "candidate_A",
+    "claim": "This segment emphasizes the global perspective and the international nature of space missions.",
+    "flags": [
+      "POSSIBLE_COMPOUND_CLAIM"
+    ]
+  },
+  {
+    "claim_id": "candidate_A_27",
+    "source_caption": "candidate_A",
+    "claim": "Frame 4 returns to the interior of the space station, where two astronauts stand side by side inside the module.",
+    "flags": [
+      "NO_OBVIOUS_ISSUE"
+    ]
+  },
+  {
+    "claim_id": "candidate_A_28",
+    "source_caption": "candidate_A",
+    "claim": "They seem to be conducting an interview or presentation, as one holds a microphone while the other gestures towards screens displaying data or images relevant to their discussion.",
+    "flags": [
+      "POSSIBLE_COMPOUND_CLAIM"
+    ]
+  },
+  {
+    "claim_id": "candidate_A_29",
+    "source_caption": "candidate_A",
+    "claim": "This indoor setting provides insight into daily life and operations within the space station.",
+    "flags": [
+      "POSSIBLE_COMPOUND_CLAIM"
+    ]
+  },
+  {
+    "claim_id": "candidate_A_30",
+    "source_caption": "candidate_A",
+    "claim": "Continuing through Frame 5, we observe another astronaut seated at a desk, wearing a headset and appearing focused on some task involving the computer system around him.",
+    "flags": [
+      "POSSIBLE_COMPOUND_CLAIM"
+    ]
+  },
+  {
+    "claim_id": "candidate_A_31",
+    "source_caption": "candidate_A",
+    "claim": "His interaction suggests he might be involved in ground support or monitoring activities necessary for their mission.",
+    "flags": [
+      "NO_OBVIOUS_ISSUE"
+    ]
+  },
+  {
+    "claim_id": "candidate_A_32",
+    "source_caption": "candidate_A",
+    "claim": "Frame 6 transitions again to",
+    "flags": [
+      "POSSIBLY_INCOMPLETE"
+    ]
+  },
+  {
+    "claim_id": "candidate_B_33",
+    "source_caption": "candidate_B",
+    "claim": "The video begins with a series of frames showing astronauts inside a spacecraft, likely the International Space Station (ISS), during Expedition 30.",
+    "flags": [
+      "POSSIBLE_COMPOUND_CLAIM"
+    ]
+  },
+  {
+    "claim_id": "candidate_B_34",
+    "source_caption": "candidate_B",
+    "claim": "The first few frames depict an office environment where astronauts are engaged in various tasks such as working at computers, checking mission controls, and communicating via microphones attached to headsets.",
+    "flags": [
+      "POSSIBLE_COMPOUND_CLAIM"
+    ]
+  },
+  {
+    "claim_id": "candidate_B_35",
+    "source_caption": "candidate_B",
+    "claim": "One astronaut is seen adjusting equipment while another stands confidently, possibly preparing for or responding to an important communication.",
+    "flags": [
+      "POSSIBLE_COMPOUND_CLAIM"
+    ]
+  },
+  {
+    "claim_id": "candidate_B_36",
+    "source_caption": "candidate_B",
+    "claim": "As the scene progresses, it transitions to spacewalk footage showcasing astronauts performing spacewalks outside the ISS.",
+    "flags": [
+      "NO_OBVIOUS_ISSUE"
+    ]
+  },
+  {
+    "claim_id": "candidate_B_37",
+    "source_caption": "candidate_B",
+    "claim": "These activities involve using robotic arms to perform maintenance tasks, highlighting their precision and skill required in this high-stakes environment.",
+    "flags": [
+      "POSSIBLE_COMPOUND_CLAIM"
+    ]
+  },
+  {
+    "claim_id": "candidate_B_38",
+    "source_caption": "candidate_B",
+    "claim": "The footage captures the astronauts' focused expressions and the complexity of their work as they maneuver through the vastness of space.",
+    "flags": [
+      "POSSIBLE_COMPOUND_CLAIM"
+    ]
+  },
+  {
+    "claim_id": "candidate_B_39",
+    "source_caption": "candidate_B",
+    "claim": "In summary, the video showcases the daily operations and tasks undertaken by astronauts aboard the International Space Station, including both routine work inside the station and critical spacewalking missions essential for maintaining and repairing the facility's systems.",
+    "flags": [
+      "POSSIBLE_COMPOUND_CLAIM"
+    ]
+  },
+  {
+    "claim_id": "candidate_C_40",
+    "source_caption": "candidate_C",
+    "claim": "Here is the detailed analysis of the video based on the provided descriptions:\n\n Initial Scene\nFrame 1 (Timestamp: 0.00 seconds)\n- The screen is black.",
+    "flags": [
+      "NO_OBVIOUS_ISSUE"
+    ]
+  },
+  {
+    "claim_id": "candidate_C_41",
+    "source_caption": "candidate_C",
+    "claim": "Frame 2 (Timestamp: 16.17 seconds)\n- A group of people are gathered in what appears to be a control room or mission control area.",
+    "flags": [
+      "NO_OBVIOUS_ISSUE"
+    ]
+  },
+  {
+    "claim_id": "candidate_C_42",
+    "source_caption": "candidate_C",
+    "claim": "They are focused on their tasks, with some individuals sitting at desks equipped with computers and monitors displaying various information.",
+    "flags": [
+      "POSSIBLE_COMPOUND_CLAIM"
+    ]
+  },
+  {
+    "claim_id": "candidate_C_43",
+    "source_caption": "candidate_C",
+    "claim": "There are multiple flags hanging on the walls behind them, indicating a multi-national team effort.",
+    "flags": [
+      "NO_OBVIOUS_ISSUE"
+    ]
+  },
+  {
+    "claim_id": "candidate_C_44",
+    "source_caption": "candidate_C",
+    "claim": "One person is speaking while others listen attentively.",
+    "flags": [
+      "POSSIBLE_COMPOUND_CLAIM"
+    ]
+  },
+  {
+    "claim_id": "candidate_C_45",
+    "source_caption": "candidate_C",
+    "claim": "Frame 3 (Timestamp: 32.34 seconds)\n- An image of the International Space Station (ISS) with the text \"Expedition 30\" displayed below it.",
+    "flags": [
+      "POSSIBLE_COMPOUND_CLAIM"
+    ]
+  },
+  {
+    "claim_id": "candidate_C_46",
+    "source_caption": "candidate_C",
+    "claim": "The ISS is seen orbiting Earth, surrounded by clouds.",
+    "flags": [
+      "NO_OBVIOUS_ISSUE"
+    ]
+  },
+  {
+    "claim_id": "candidate_C_47",
+    "source_caption": "candidate_C",
+    "claim": "Frame 4 (Timestamp: 48.51 seconds)\n- Two astronauts are inside the ISS.",
+    "flags": [
+      "NO_OBVIOUS_ISSUE"
+    ]
+  },
+  {
+    "claim_id": "candidate_C_48",
+    "source_caption": "candidate_C",
+    "claim": "One is holding a microphone and appears to be conducting an interview or giving a speech.",
+    "flags": [
+      "POSSIBLE_COMPOUND_CLAIM"
+    ]
+  },
+  {
+    "claim_id": "candidate_C_49",
+    "source_caption": "candidate_C",
+    "claim": "The other astronaut is standing beside him, listening intently.",
+    "flags": [
+      "NO_OBVIOUS_ISSUE"
+    ]
+  },
+  {
+    "claim_id": "candidate_C_50",
+    "source_caption": "candidate_C",
+    "claim": "The background shows the interior of the ISS, including equipment and the view of Earth through a window.",
+    "flags": [
+      "POSSIBLE_COMPOUND_CLAIM"
+    ]
+  },
+  {
+    "claim_id": "candidate_C_51",
+    "source_caption": "candidate_C",
+    "claim": "The astronauts are dressed in their typical spacesuits for extravehicular activities (EVAs",
+    "flags": [
+      "NO_OBVIOUS_ISSUE"
+    ]
+  }
+]

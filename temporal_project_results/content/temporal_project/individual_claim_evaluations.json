@@ -1,0 +1,14 @@
+{
+    "claim_1": {
+        "claim": "The twelfth sampled frame shows two individuals in the control room.",
+        "judge_output": "CLASSIFICATION: CONTRADICTED\nEVIDENCE: 12\nREASON: The twelfth sampled frame shows a black screen, which contradicts the claim that it shows two individuals in the control room. The observation is clear and unambiguous. CLASSIFICATION: CONTRADICTED\nEVIDENCE: 12\nREASON: The twelfth sampled frame shows a black screen, which contradicts the claim that it shows two individuals in the control room. The observation is clear"
+    },
+    "claim_2": {
+        "claim": "The video repeatedly switches between the control room and the ISS.",
+        "judge_output": "CLASSIFICATION: CONTRADICTED\nEVIDENCE: Frame number and timestamp\nREASON: The timeline shows that the video does not switch between the control room and the ISS. It only shows the ISS and the control room separately. The claim is therefore contradicted by the evidence. CLASSIFICATION: CONTRADICTED\nEVIDENCE: Frame number and timestamp\nREASON: The timeline shows that the video does not switch between the control room and the ISS. It only shows the ISS"
+    },
+    "claim_3": {
+        "claim": "Two men are visibly talking at timestamp 177.86 seconds.",
+        "judge_output": "CLASSIFICATION: CONTRADICTED\nEVIDENCE: 12, 177.86\nREASON: The video ends with a black screen, indicating no ongoing activity. CLASSIFICATION: CONTRADICTED\nEVIDENCE: 12, 177.86\nREASON: The video ends with a black screen, indicating no ongoing activity. CLASSIFICATION: CONTRADICTED\nEVIDENCE: 12, 177"
+    }
+}

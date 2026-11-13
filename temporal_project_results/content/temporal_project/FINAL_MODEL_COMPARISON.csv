@@ -1,0 +1,6 @@
+Metric,Baseline Video-LLM,RL-Aligned Video-LLM,Improvement (Δ)
+R_order (Action Chronology),1.00,0.50,+-0.50
+R_missing (Event Completeness),1.00,0.67,+-0.33
+R_hall (Factual Grounding),1.00,1.00,+0.00
+R_temp (Total Temporal Reward),1.00,0.70,+-0.30
+DPO Preference Margin (log π_w - log π_l),-33.09,+3.99,+37.08

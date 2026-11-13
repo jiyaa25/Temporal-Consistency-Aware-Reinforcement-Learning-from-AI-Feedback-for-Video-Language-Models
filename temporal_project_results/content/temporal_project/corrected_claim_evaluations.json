@@ -1,0 +1,23 @@
+{
+    "claim_1": {
+        "claim": "The twelfth sampled frame shows two individuals in the control room.",
+        "classification": "REQUIRES_VALIDATION",
+        "reason": "This claim refers to a specific observation. Check whether the judge's evidence matches the corresponding sampled frame before accepting its classification.",
+        "original_judge_output": "CLASSIFICATION: CONTRADICTED\nEVIDENCE: 12\nREASON: The twelfth sampled frame shows a black screen, which contradicts the claim that it shows two individuals in the control room. The observation is clear and unambiguous. CLASSIFICATION: CONTRADICTED\nEVIDENCE: 12\nREASON: The twelfth sampled frame shows a black screen, which contradicts the claim that it shows two individuals in the control room. The observation is clear",
+        "correction_applied": false
+    },
+    "claim_2": {
+        "claim": "The video repeatedly switches between the control room and the ISS.",
+        "classification": "UNCERTAIN",
+        "reason": "Only 12 uniformly sampled frames were inspected. This is insufficient to verify a repeated or continuous event across the entire video.",
+        "original_judge_output": "CLASSIFICATION: CONTRADICTED\nEVIDENCE: Frame number and timestamp\nREASON: The timeline shows that the video does not switch between the control room and the ISS. It only shows the ISS and the control room separately. The claim is therefore contradicted by the evidence. CLASSIFICATION: CONTRADICTED\nEVIDENCE: Frame number and timestamp\nREASON: The timeline shows that the video does not switch between the control room and the ISS. It only shows the ISS",
+        "correction_applied": true
+    },
+    "claim_3": {
+        "claim": "Two men are visibly talking at timestamp 177.86 seconds.",
+        "classification": "REQUIRES_VALIDATION",
+        "reason": "This claim refers to a specific observation. Check whether the judge's evidence matches the corresponding sampled frame before accepting its classification.",
+        "original_judge_output": "CLASSIFICATION: CONTRADICTED\nEVIDENCE: 12, 177.86\nREASON: The video ends with a black screen, indicating no ongoing activity. CLASSIFICATION: CONTRADICTED\nEVIDENCE: 12, 177.86\nREASON: The video ends with a black screen, indicating no ongoing activity. CLASSIFICATION: CONTRADICTED\nEVIDENCE: 12, 177",
+        "correction_applied": false
+    }
+}

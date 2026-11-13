@@ -1,0 +1,39 @@
+[
+    {
+        "claim_id": "claim_1",
+        "claim": "The twelfth sampled frame shows two individuals in the control room.",
+        "judge_classification": "CONTRADICTED",
+        "evidence_classification": "CONTRADICTED",
+        "judge_evidence_agreement": true,
+        "evidence": {
+            "frame": 12,
+            "timestamp": 177.86,
+            "observation": "Black screen",
+            "confidence": "high"
+        },
+        "validation_reason": "The matching sampled frame is black."
+    },
+    {
+        "claim_id": "claim_2",
+        "claim": "The video repeatedly switches between the control room and the ISS.",
+        "judge_classification": "CONTRADICTED",
+        "evidence_classification": "UNCERTAIN",
+        "judge_evidence_agreement": false,
+        "evidence": null,
+        "validation_reason": "No matching sampled frame or timestamp found."
+    },
+    {
+        "claim_id": "claim_3",
+        "claim": "Two men are visibly talking at timestamp 177.86 seconds.",
+        "judge_classification": "CONTRADICTED",
+        "evidence_classification": "CONTRADICTED",
+        "judge_evidence_agreement": true,
+        "evidence": {
+            "frame": 12,
+            "timestamp": 177.86,
+            "observation": "Black screen",
+            "confidence": "high"
+        },
+        "validation_reason": "The matching sampled frame is black."
+    }
+]

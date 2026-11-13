@@ -1,0 +1,5 @@
+Weight Configuration,"(α, β, γ)",R_temp (Baseline),R_temp (Aligned),Absolute Gain,Relative Improvement
+Balanced (SOP default),"(0.40, 0.30, 0.30)",1.0,0.7,-0.3,-30.0%
+Order-Prioritized,"(0.70, 0.15, 0.15)",1.0,0.6,-0.4,-40.0%
+Completeness-Prioritized,"(0.20, 0.60, 0.20)",1.0,0.7,-0.3,-30.0%
+Hallucination-Averse,"(0.20, 0.20, 0.60)",1.0,0.833,-0.167,-16.7%

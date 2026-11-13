@@ -1,0 +1,5 @@
+caption,total_claims,supported,contradicted,uncertain,requires_human_review,evaluable_claims,evidence_evaluability_percent,contradiction_rate_percent
+baseline,20,0,2,18,0,2,10.0,100.0
+candidate_A,11,1,0,10,0,1,9.09,0.0
+candidate_B,7,0,0,7,0,0,0.0,
+candidate_C,13,0,0,12,1,0,0.0,

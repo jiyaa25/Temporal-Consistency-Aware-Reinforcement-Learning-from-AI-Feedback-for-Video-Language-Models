@@ -1,0 +1,85 @@
+{
+    "video": "/content/sample_video.mp4",
+    "sampling_interval_seconds": 16.17,
+    "num_sampled_frames": 12,
+    "evidence_type": "Human-observed sparse-frame evidence",
+    "limitations": [
+        "Only sampled frames are inspected",
+        "Actions between sampled frames may be missed",
+        "Unclear activities are not treated as confirmed events"
+    ],
+    "timeline": [
+        {
+            "frame": 1,
+            "timestamp": 0.0,
+            "observation": "Black screen",
+            "confidence": "high"
+        },
+        {
+            "frame": 2,
+            "timestamp": 16.17,
+            "observation": "Graphic containing a control-room image and an ISS model",
+            "confidence": "high"
+        },
+        {
+            "frame": 3,
+            "timestamp": 32.34,
+            "observation": "Exterior view of the International Space Station with Expedition 30 text",
+            "confidence": "high"
+        },
+        {
+            "frame": 4,
+            "timestamp": 48.51,
+            "observation": "Two men inside the ISS; one holds a microphone",
+            "confidence": "high"
+        },
+        {
+            "frame": 5,
+            "timestamp": 64.68,
+            "observation": "Close-up of one man speaking",
+            "confidence": "high"
+        },
+        {
+            "frame": 6,
+            "timestamp": 80.85,
+            "observation": "Partial view of a person wearing blue shorts inside the station; activity unclear",
+            "confidence": "medium"
+        },
+        {
+            "frame": 7,
+            "timestamp": 97.01,
+            "observation": "Two men together inside the ISS; one holds a microphone",
+            "confidence": "high"
+        },
+        {
+            "frame": 8,
+            "timestamp": 113.18,
+            "observation": "Two men remain together inside the ISS",
+            "confidence": "high"
+        },
+        {
+            "frame": 9,
+            "timestamp": 129.35,
+            "observation": "Two men remain together inside the ISS",
+            "confidence": "high"
+        },
+        {
+            "frame": 10,
+            "timestamp": 145.52,
+            "observation": "Two men together; the man in blue appears to hold the microphone",
+            "confidence": "high"
+        },
+        {
+            "frame": 11,
+            "timestamp": 161.69,
+            "observation": "Two men together; the man in blue appears to hold the microphone",
+            "confidence": "high"
+        },
+        {
+            "frame": 12,
+            "timestamp": 177.86,
+            "observation": "Black screen",
+            "confidence": "high"
+        }
+    ]
+}

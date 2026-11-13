@@ -1,0 +1,33 @@
+{
+  "caption_name": "baseline",
+  "missing_actions": {
+    "score": 0,
+    "findings": [
+      "The caption does not mention any specific actions or events that are missing from the video."
+    ],
+    "evidence": []
+  },
+  "hallucinations": {
+    "score": 0,
+    "findings": [
+      "The caption does not claim any actions or events that are not supported by the video."
+    ],
+    "evidence": []
+  },
+  "misordered_events": {
+    "score": 0,
+    "findings": [
+      "The caption does not describe any events that are inconsistent with the chronological sequence of the video."
+    ],
+    "evidence": []
+  },
+  "repetition": {
+    "findings": [
+      "The caption does not repeat any information about the same event."
+    ],
+    "evidence": []
+  },
+  "overall_assessment": "The caption accurately describes the sequence of events shown in the video.",
+  "confidence": "high",
+  "limitations": []
+}

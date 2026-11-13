@@ -1,0 +1,28 @@
+pair_id,error_type,ground_truth_winner,judge_picked_winner,judge_correct,raw_response
+PAIR_001,MISORDERED_ACTIONS,Caption A,Caption B,0,"BETTER_CAPTION: Caption B
+TEMPORAL_ERROR_IDENTIFIED: NONE
+EXPLANATION: The sequence of events in Caption B follows the order of the video clips, starting with the astronauts inside the ISS cabin, then showing the exterior view of the ISS, followed by the mission control room, and ending with a close-up of an astronaut. This matches the actual order of events in the video."
+PAIR_002,HALLUCINATED_ACTIONS,Caption A,Caption A,1,"BETTER_CAPTION: Caption A
+TEMPORAL_ERROR_IDENTIFIED: NONE
+EXPLANATION: The description provided for both captions is identical, indicating that there are no temporal errors between them. Therefore, neither caption is temporally more consistent than the other."
+PAIR_003,MISSING_ACTIONS,Caption A,Caption A,1,"BETTER_CAPTION: Caption A
+TEMPORAL_ERROR_IDENTIFIED: MISORDERED_ACTIONS
+EXPLANATION: The video description provided for Caption A correctly follows the sequence of events: it starts with the mission control room team monitoring operations, then cuts to an exterior shot of the ISS orbiting Earth, followed by two astronauts speaking inside the space station, and finally a close-up of an astronaut speaking. This sequence accurately reflects the order of events in the video. In contrast, Caption B incorrectly suggests that the video ends abruptly after showing an astronaut speaking, which is not supported by the provided information."
+PAIR_004,MISORDERED_ACTIONS,Caption A,Caption B,0,"BETTER_CAPTION: Caption B
+TEMPORAL_ERROR_IDENTIFIED: NONE
+EXPLANATION: The video begins with an exterior view of the ISS orbiting over Earth, which matches the beginning of Caption B. Then, it transitions back to mission control staff, which aligns with the end of Caption B. There are no misordered actions, hallucinations, or missing actions in this sequence."
+PAIR_005,HALLUCINATED_ACTIONS,Caption A,Caption A,1,"BETTER_CAPTION: Caption A
+TEMPORAL_ERROR_IDENTIFIED: NONE
+EXPLANATION: Caption A describes the sequence of events correctly, starting with personnel in the mission control room working with an ISS model and then transitioning to an exterior view of the ISS orbiting over Earth's cloud layer. This matches the actual events shown in the video. In contrast, Caption B describes an incorrect sequence where an astronaut enters the Soyuz capsule and initiates an emergency docking procedure, which is not part of the video content."
+PAIR_006,MISSING_ACTIONS,Caption A,Caption B,0,"BETTER_CAPTION: Caption B
+TEMPORAL_ERROR_IDENTIFIED: NONE
+EXPLANATION: The video begins with mission control personnel sitting at desks, which aligns with the first sentence of Caption B. The transition to the exterior view of the ISS orbiting over Earth's cloud layer is not mentioned in Caption B but is present in the video. Therefore, Caption B is temporally more consistent and chronologically accurate to the video."
+PAIR_007,MISORDERED_ACTIONS,Caption A,Caption A,1,"BETTER_CAPTION: Caption A
+TEMPORAL_ERROR_IDENTIFIED: MISORDERED_ACTIONS
+EXPLANATION: The video description suggests that the sequence of events should be: (1) a solitary close-up speech, (2) the two astronauts entering the cabin, and (3) the astronauts standing together and speaking into a microphone. However, the provided captions do not follow this logical order."
+PAIR_008,HALLUCINATED_ACTIONS,Caption A,Caption A,1,"BETTER_CAPTION: Caption A
+TEMPORAL_ERROR_IDENTIFIED: MISORDERED_ACTIONS
+EXPLANATION: The video shows two astronauts inside the space station, with one speaking into a microphone and then addressing the viewers. This sequence is not shown in Caption B, which describes astronauts floating through the cupola and eating floating space food. Therefore, Caption A is temporally more consistent and chronologically accurate."
+PAIR_009,MISSING_ACTIONS,Caption A,Caption A,1,"BETTER_CAPTION: Caption A
+TEMPORAL_ERROR_IDENTIFIED: MISORDERED_ACTIONS
+EXPLANATION: Caption A describes a sequence of events where two astronauts are standing together, with one speaking into a microphone, followed by close-up shots of the speaker addressing the viewers. This sequence accurately reflects the events shown in the video. In contrast, Caption B only mentions one astronaut holding a microphone, which does not match the detailed description of the video content."

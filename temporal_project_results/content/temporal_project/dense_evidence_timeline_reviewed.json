@@ -1,0 +1,218 @@
+[
+  {
+    "frame": 1,
+    "timestamp": 0,
+    "observation": "Black screen",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 2,
+    "timestamp": 5,
+    "observation": "A man stands in front of large displays in a mission-control-like room.",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 3,
+    "timestamp": 10,
+    "observation": "Graphic showing a model of the International Space Station.",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 4,
+    "timestamp": 15,
+    "observation": "Graphic montage containing an inset image of two people inside the ISS and an ISS model.",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 5,
+    "timestamp": 20,
+    "observation": "Title graphic displaying the words Inside the ISS.",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 6,
+    "timestamp": 25,
+    "observation": "Close-up of a man in front of a large map display.",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 7,
+    "timestamp": 30,
+    "observation": "Exterior view of the ISS with Expedition 30 text.",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 8,
+    "timestamp": 35,
+    "observation": "Several people are visible in a control room with computer consoles.",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 9,
+    "timestamp": 40,
+    "observation": "People remain visible in the control room; a man is prominent in the foreground.",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 10,
+    "timestamp": 45,
+    "observation": "Control-room scene with people working at consoles.",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 11,
+    "timestamp": 50,
+    "observation": "Two men inside the ISS module; both are standing and holding microphones.",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 12,
+    "timestamp": 55,
+    "observation": "Close-up of a man wearing a dark shirt, seated near a chair and equipment; exact setting is uncertain.",
+    "confidence": "MEDIUM"
+  },
+  {
+    "frame": 13,
+    "timestamp": 60,
+    "observation": "Close-up of the same-looking man in a dark shirt.",
+    "confidence": "MEDIUM"
+  },
+  {
+    "frame": 14,
+    "timestamp": 65,
+    "observation": "Two men standing inside the ISS module; one holds a microphone.",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 15,
+    "timestamp": 70,
+    "observation": "Two men inside the ISS; one holds a microphone while the other raises a hand near his face.",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 16,
+    "timestamp": 75,
+    "observation": "Two men remain inside the ISS; one holds a microphone.",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 17,
+    "timestamp": 80,
+    "observation": "Partial view of a person wearing blue shorts near equipment; activity unclear.",
+    "confidence": "MEDIUM"
+  },
+  {
+    "frame": 18,
+    "timestamp": 85,
+    "observation": "Partial view of the person in blue shorts near equipment.",
+    "confidence": "MEDIUM"
+  },
+  {
+    "frame": 19,
+    "timestamp": 90,
+    "observation": "Person in blue shorts remains partially visible near equipment.",
+    "confidence": "MEDIUM"
+  },
+  {
+    "frame": 20,
+    "timestamp": 95,
+    "observation": "Two men inside the ISS module; one holds a microphone.",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 21,
+    "timestamp": 100,
+    "observation": "Two men remain together inside the ISS; one gestures with an arm.",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 22,
+    "timestamp": 105,
+    "observation": "Two men inside the ISS; one holds a microphone and gestures.",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 23,
+    "timestamp": 110,
+    "observation": "Two men remain together inside the ISS; one gestures while holding a microphone.",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 24,
+    "timestamp": 115,
+    "observation": "Two men remain together inside the ISS.",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 25,
+    "timestamp": 120,
+    "observation": "Close-up of an electronic circuit board and connected probes.",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 26,
+    "timestamp": 125,
+    "observation": "Two men standing together inside the ISS; one holds a microphone.",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 27,
+    "timestamp": 130,
+    "observation": "Two men remain inside the ISS; the man in blue turns toward the other man.",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 28,
+    "timestamp": 135,
+    "observation": "Two men inside the ISS, with one holding a microphone.",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 29,
+    "timestamp": 140,
+    "observation": "Two men inside the ISS; the man in blue holds a microphone.",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 30,
+    "timestamp": 145,
+    "observation": "Two men remain together inside the ISS.",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 31,
+    "timestamp": 150,
+    "observation": "Two men inside the ISS; one holds a microphone.",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 32,
+    "timestamp": 155,
+    "observation": "Two men remain together inside the ISS; one holds a microphone.",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 33,
+    "timestamp": 160,
+    "observation": "Two men inside the ISS; one turns toward the other.",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 34,
+    "timestamp": 165,
+    "observation": "Two men remain together inside the ISS.",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 35,
+    "timestamp": 170,
+    "observation": "Two men inside the ISS; the man in blue holds a microphone.",
+    "confidence": "HIGH"
+  },
+  {
+    "frame": 36,
+    "timestamp": 175,
+    "observation": "Two men remain together inside the ISS.",
+    "confidence": "HIGH"
+  }
+]

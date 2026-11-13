@@ -1,0 +1,114 @@
+Based on the provided visual evidence, you should generate a JSON response. Based on the provided visual evidence, you should generate a JSON response.
+```json
+{
+  "caption_name": "baseline_v3",
+  "missing_actions": {
+    "score": 0,
+    "findings": []
+  },
+  "hallucinations": {
+    "score": 0,
+    "findings": []
+  },
+  "misordered_events": {
+    "score": 0,
+    "findings": []
+  },
+  "repetition": {
+    "score": 0,
+    "findings": []
+  },
+  "uncertain_claims": [],
+  "overall_assessment": "The caption accurately describes the sequence of events based on the visual evidence.",
+  "confidence": "high"
+}
+``` ```json
+{
+  "caption_name": "baseline_v3",
+  "missing_actions": {
+    "score": 0,
+    "findings": []
+  },
+  "hallucinations": {
+    "score": 0,
+    "findings": []
+  },
+  "misordered_events": {
+    "score": 0,
+    "findings": []
+  },
+  "repetition": {
+    "score": 0,
+    "findings": []
+  },
+  "uncertain_claims": [],
+  "overall_assessment": "The caption accurately describes the sequence of events based on the visual evidence.",
+  "confidence": "high"
+}
+``` ```json
+{
+  "caption_name": "baseline_v3",
+  "missing_actions": {
+    "score": 0,
+    "findings": []
+  },
+  "hallucinations": {
+    "score": 0,
+    "findings": []
+  },
+  "misordered_events": {
+    "score": 0,
+    "findings": []
+  },
+  "repetition": {
+    "score": 0,
+    "findings": []
+  },
+  "uncertain_claims": [],
+  "overall_assessment": "The caption accurately describes the sequence of events based on the visual evidence.",
+  "confidence": "high"
+}
+``` ```json
+{
+  "caption_name": "baseline_v3",
+  "missing_actions": {
+    "score": 0,
+    "findings": []
+  },
+  "hallucinations": {
+    "score": 0,
+    "findings": []
+  },
+  "misordered_events": {
+    "score": 0,
+    "findings": []
+  },
+  "repetition": {
+    "score": 0,
+    "findings": []
+  },
+  "uncertain_claims": [],
+  "overall_assessment": "The caption accurately describes the sequence of events based on the visual evidence.",
+  "confidence": "high"
+}
+``` ```json
+{
+  "caption_name": "baseline_v3",
+  "missing_actions": {
+    "score": 0,
+    "findings": []
+  },
+  "hallucinations": {
+    "score": 0,
+    "findings": []
+  },
+  "misordered_events": {
+    "score": 0,
+    "findings": []
+  },
+  "repetition": {
+    "score": 0,
+    "findings": []
+  },
+  "uncertain_claims": [],
+  "overall_assessment": "The caption accurately describes the

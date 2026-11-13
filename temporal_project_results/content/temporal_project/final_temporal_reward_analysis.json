@@ -1,0 +1,58 @@
+[
+  {
+    "caption": "baseline",
+    "supported_claims": 0,
+    "contradicted_claims": 5,
+    "uncertain_claims": 7,
+    "not_evaluable_claims": 8,
+    "evaluable_claims": 5,
+    "R_hall": -1.0,
+    "R_order": null,
+    "R_missing": null,
+    "weighted_hall_contribution": -0.4,
+    "R_temp": null,
+    "reward_status": "PARTIAL \u2014 temporal components unavailable"
+  },
+  {
+    "caption": "candidate_A",
+    "supported_claims": 0,
+    "contradicted_claims": 0,
+    "uncertain_claims": 5,
+    "not_evaluable_claims": 6,
+    "evaluable_claims": 0,
+    "R_hall": null,
+    "R_order": null,
+    "R_missing": null,
+    "weighted_hall_contribution": null,
+    "R_temp": null,
+    "reward_status": "NOT COMPUTABLE \u2014 no evaluable claims"
+  },
+  {
+    "caption": "candidate_B",
+    "supported_claims": 0,
+    "contradicted_claims": 0,
+    "uncertain_claims": 0,
+    "not_evaluable_claims": 7,
+    "evaluable_claims": 0,
+    "R_hall": null,
+    "R_order": null,
+    "R_missing": null,
+    "weighted_hall_contribution": null,
+    "R_temp": null,
+    "reward_status": "NOT COMPUTABLE \u2014 no evaluable claims"
+  },
+  {
+    "caption": "candidate_C",
+    "supported_claims": 2,
+    "contradicted_claims": 0,
+    "uncertain_claims": 2,
+    "not_evaluable_claims": 9,
+    "evaluable_claims": 2,
+    "R_hall": 1.0,
+    "R_order": null,
+    "R_missing": null,
+    "weighted_hall_contribution": 0.4,
+    "R_temp": null,
+    "reward_status": "PARTIAL \u2014 temporal components unavailable"
+  }
+]

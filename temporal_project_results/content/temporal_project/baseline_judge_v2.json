@@ -1,0 +1,72 @@
+```json
+{
+  "caption_name": "baseline_v2",
+  "claim_analysis": [
+    {
+      "caption_claim": "The video begins with a black screen, indicating the start of the sequence.",
+      "classification": "supported",
+      "evidence_frames": [1],
+      "explanation": "The first frame shows a black screen, which aligns with the caption."
+    },
+    {
+      "caption_claim": "The first frame shows a group of people in a control room, likely a mission control center, where they are focused on their work.",
+      "classification": "contradicted",
+      "evidence_frames": [2],
+      "explanation": "The first frame shows a graphic containing a control room image and an ISS model, not a group of people in a control room."
+    },
+    {
+      "caption_claim": "The second frame transitions to an exterior view of the International Space Station (ISS) in orbit, showcasing its structure and the surrounding Earth's atmosphere.",
+      "classification": "contradicted",
+      "evidence_frames": [3],
+      "explanation": "The second frame shows the exterior of the ISS with Expedition 30 text, not an exterior view of the ISS in orbit."
+    },
+    {
+      "caption_claim": "The third frame returns to the control room, where two individuals are present, one holding a microphone and the other standing beside him. They appear to be engaged in a discussion or presentation.",
+      "classification": "contradicted",
+      "evidence_frames": [7],
+      "explanation": "The third frame shows the ISS with two individuals inside, not a control room."
+    },
+    {
+      "caption_claim": "The fourth frame shifts back to the ISS, where the same two individuals are seen inside the space station, continuing their conversation.",
+      "classification": "contradicted",
+      "evidence_frames": [8],
+      "explanation": "The fourth frame shows the ISS with two individuals inside, but the caption suggests they are in a control room."
+    },
+    {
+      "caption_claim": "The fifth frame captures a close-up of one of the individuals speaking, emphasizing his facial expressions and gestures.",
+      "classification": "contradicted",
+      "evidence_frames": [5],
+      "explanation": "The fifth frame shows a close-up of one man speaking, but the caption suggests it is a close-up of one of the individuals."
+    },
+    {
+      "caption_claim": "The sixth frame shows a person in a blue shirt performing some task, possibly related to the space station's operations.",
+      "classification": "contradicted",
+      "evidence_frames": [6],
+      "explanation": "The sixth frame shows a person in a blue shirt performing some task, but the caption suggests it is a person in a blue shirt performing some task related to the space station's operations."
+    },
+    {
+      "caption_claim": "The seventh frame returns to the control room, where the two individuals continue their interaction.",
+      "classification": "contradicted",
+      "evidence_frames": [7],
+      "explanation": "The seventh frame shows the ISS with two individuals inside, not a control room."
+    },
+    {
+      "caption_claim": "The eighth frame again shows the ISS, with the two individuals still engaged in their discussion.",
+      "classification": "contradicted",
+      "evidence_frames": [8],
+      "explanation": "The eighth frame shows the ISS with two individuals inside, but the caption suggests they are in a control room."
+    },
+    {
+      "caption_claim": "The ninth frame provides another close-up of the individual speaking, highlighting his engagement.",
+      "classification": "contradicted",
+      "evidence_frames": [5],
+      "explanation": "The ninth frame shows a close-up of one man speaking, but the caption suggests it is a close-up of one of the individuals."
+    },
+    {
+      "caption_claim": "The tenth frame returns to the ISS, where the two individuals are once more seen in conversation.",
+      "classification": "contradicted",
+      "evidence_frames": [8],
+      "explanation": "The tenth frame shows the ISS with two individuals inside, but the caption suggests they are in a control room."
+    },
+    {
+      "caption

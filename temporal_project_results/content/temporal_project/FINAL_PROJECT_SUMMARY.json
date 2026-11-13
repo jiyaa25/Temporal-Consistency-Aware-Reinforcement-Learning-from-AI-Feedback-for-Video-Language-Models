@@ -1,0 +1,113 @@
+{
+  "project": "Temporal-Consistency-Aware Reinforcement Learning from AI Feedback for Video-Language Models",
+  "overall_statistics": {
+    "video_duration_seconds": 177.96,
+    "dense_visual_observations": 36,
+    "visual_sampling_interval_seconds": 5,
+    "total_claims": 51,
+    "supported_claims": 2,
+    "contradicted_claims": 5,
+    "uncertain_claims": 14,
+    "not_evaluable_claims": 30,
+    "human_annotated_claims": 51,
+    "generated_preference_pairs": 0,
+    "ppo_training_performed": false,
+    "lora_finetuning_performed": false,
+    "reward_model_training_performed": false
+  },
+  "caption_results": [
+    {
+      "caption": "baseline",
+      "total_claims": 20,
+      "supported": 0,
+      "contradicted": 5,
+      "uncertain": 7,
+      "not_evaluable": 8,
+      "evaluable_claims": 5,
+      "evidence_coverage": 0.25,
+      "contradiction_rate": 1.0,
+      "preference_eligible": true,
+      "R_hall": -1.0,
+      "R_order": null,
+      "R_missing": null,
+      "weighted_hall_contribution": -0.4,
+      "R_temp": null,
+      "reward_status": "PARTIAL — temporal components unavailable"
+    },
+    {
+      "caption": "candidate_A",
+      "total_claims": 11,
+      "supported": 0,
+      "contradicted": 0,
+      "uncertain": 5,
+      "not_evaluable": 6,
+      "evaluable_claims": 0,
+      "evidence_coverage": 0.0,
+      "contradiction_rate": null,
+      "preference_eligible": false,
+      "R_hall": null,
+      "R_order": null,
+      "R_missing": null,
+      "weighted_hall_contribution": null,
+      "R_temp": null,
+      "reward_status": "NOT COMPUTABLE — no evaluable claims"
+    },
+    {
+      "caption": "candidate_B",
+      "total_claims": 7,
+      "supported": 0,
+      "contradicted": 0,
+      "uncertain": 0,
+      "not_evaluable": 7,
+      "evaluable_claims": 0,
+      "evidence_coverage": 0.0,
+      "contradiction_rate": null,
+      "preference_eligible": false,
+      "R_hall": null,
+      "R_order": null,
+      "R_missing": null,
+      "weighted_hall_contribution": null,
+      "R_temp": null,
+      "reward_status": "NOT COMPUTABLE — no evaluable claims"
+    },
+    {
+      "caption": "candidate_C",
+      "total_claims": 13,
+      "supported": 2,
+      "contradicted": 0,
+      "uncertain": 2,
+      "not_evaluable": 9,
+      "evaluable_claims": 2,
+      "evidence_coverage": 0.154,
+      "contradiction_rate": 0.0,
+      "preference_eligible": false,
+      "R_hall": 1.0,
+      "R_order": null,
+      "R_missing": null,
+      "weighted_hall_contribution": 0.4,
+      "R_temp": null,
+      "reward_status": "PARTIAL — temporal components unavailable"
+    }
+  ],
+  "reward_definition": {
+    "formula": "R_temp = 0.30*R_order + 0.30*R_missing + 0.40*R_hall",
+    "baseline_R_hall": -1.0,
+    "baseline_weighted_hall_contribution": -0.4,
+    "R_order": "Not computed",
+    "R_missing": "Not computed",
+    "complete_R_temp": "Not computed"
+  },
+  "preference_learning": {
+    "preference_pairs_generated": 0,
+    "reason": "Insufficient verified candidate-caption evidence for defensible chosen/rejected pairs."
+  },
+  "limitations": [
+    "Visual evidence was sampled every five seconds, not continuously.",
+    "Static frames cannot establish spoken dialogue or audio events.",
+    "Many generated claims lacked explicit temporal anchors.",
+    "Candidate captions did not have sufficient evaluable claims.",
+    "Temporal ordering and missing-event rewards were not calculated.",
+    "No reward model, PPO, or LoRA fine-tuning was performed.",
+    "No improvement in the underlying Video-LLM has been demonstrated."
+  ]
+}

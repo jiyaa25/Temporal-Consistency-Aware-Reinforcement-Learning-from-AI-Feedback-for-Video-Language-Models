@@ -1,0 +1,5 @@
+caption,total_claims,evaluable_claims,evidence_coverage,support_rate,hallucination_rate,claim_reward,measurable_reward_component,order_reward,missing_event_reward,full_temporal_reward
+baseline,20,2,0.1,0.0,1.0,-1.0,-0.4,,,
+candidate_A,11,1,0.0909,1.0,0.0,1.0,0.4,,,
+candidate_B,7,0,0.0,,,,,,,
+candidate_C,13,0,0.0,,,,,,,

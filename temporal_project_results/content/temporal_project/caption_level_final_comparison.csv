@@ -1,0 +1,5 @@
+caption,total_claims,supported,contradicted,uncertain,not_evaluable,evaluable_claims,evidence_coverage,contradiction_rate,preference_eligible
+baseline,20,0,5,7,8,5,0.25,1.0,True
+candidate_A,11,0,0,5,6,0,0.0,,False
+candidate_B,7,0,0,0,7,0,0.0,,False
+candidate_C,13,2,0,2,9,2,0.154,0.0,False

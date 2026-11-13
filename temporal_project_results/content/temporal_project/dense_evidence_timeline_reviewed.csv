@@ -1,0 +1,37 @@
+frame,timestamp,observation,confidence
+1,0,Black screen,HIGH
+2,5,A man stands in front of large displays in a mission-control-like room.,HIGH
+3,10,Graphic showing a model of the International Space Station.,HIGH
+4,15,Graphic montage containing an inset image of two people inside the ISS and an ISS model.,HIGH
+5,20,Title graphic displaying the words Inside the ISS.,HIGH
+6,25,Close-up of a man in front of a large map display.,HIGH
+7,30,Exterior view of the ISS with Expedition 30 text.,HIGH
+8,35,Several people are visible in a control room with computer consoles.,HIGH
+9,40,People remain visible in the control room; a man is prominent in the foreground.,HIGH
+10,45,Control-room scene with people working at consoles.,HIGH
+11,50,Two men inside the ISS module; both are standing and holding microphones.,HIGH
+12,55,"Close-up of a man wearing a dark shirt, seated near a chair and equipment; exact setting is uncertain.",MEDIUM
+13,60,Close-up of the same-looking man in a dark shirt.,MEDIUM
+14,65,Two men standing inside the ISS module; one holds a microphone.,HIGH
+15,70,Two men inside the ISS; one holds a microphone while the other raises a hand near his face.,HIGH
+16,75,Two men remain inside the ISS; one holds a microphone.,HIGH
+17,80,Partial view of a person wearing blue shorts near equipment; activity unclear.,MEDIUM
+18,85,Partial view of the person in blue shorts near equipment.,MEDIUM
+19,90,Person in blue shorts remains partially visible near equipment.,MEDIUM
+20,95,Two men inside the ISS module; one holds a microphone.,HIGH
+21,100,Two men remain together inside the ISS; one gestures with an arm.,HIGH
+22,105,Two men inside the ISS; one holds a microphone and gestures.,HIGH
+23,110,Two men remain together inside the ISS; one gestures while holding a microphone.,HIGH
+24,115,Two men remain together inside the ISS.,HIGH
+25,120,Close-up of an electronic circuit board and connected probes.,HIGH
+26,125,Two men standing together inside the ISS; one holds a microphone.,HIGH
+27,130,Two men remain inside the ISS; the man in blue turns toward the other man.,HIGH
+28,135,"Two men inside the ISS, with one holding a microphone.",HIGH
+29,140,Two men inside the ISS; the man in blue holds a microphone.,HIGH
+30,145,Two men remain together inside the ISS.,HIGH
+31,150,Two men inside the ISS; one holds a microphone.,HIGH
+32,155,Two men remain together inside the ISS; one holds a microphone.,HIGH
+33,160,Two men inside the ISS; one turns toward the other.,HIGH
+34,165,Two men remain together inside the ISS.,HIGH
+35,170,Two men inside the ISS; the man in blue holds a microphone.,HIGH
+36,175,Two men remain together inside the ISS.,HIGH
